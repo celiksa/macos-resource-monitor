@@ -20,6 +20,10 @@ A native macOS resource monitor built with SwiftUI. A live overview, detailed CP
 
 ![CPU core monitoring](docs/cpu.png)
 
+## Download
+
+Download the Apple Silicon app from [GitHub Releases](https://github.com/celiksa/macos-resource-monitor/releases/latest). Requires macOS 14 or later. The app is ad-hoc signed and not notarized. Intel Macs can build from source, but have not been physically verified.
+
 ## Build and run
 
 Requires macOS 14+ and Swift 6. No third-party package dependencies. Command Line Tools are sufficient; full Xcode is optional.

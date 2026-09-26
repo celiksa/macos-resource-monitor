@@ -3,3 +3,6 @@
 Vitals.app/
 Resources/AppIcon.icns
 .DS_Store
+
+# Keep local process-list captures out of published documentation.
+/docs/screenshots/vitals_processes.png

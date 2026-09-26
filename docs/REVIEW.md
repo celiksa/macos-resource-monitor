@@ -26,7 +26,7 @@
 - Tests cover M5 Super/Performance topology, earlier Efficiency/Performance topology, noncontiguous CPU IDs, unknown/incomplete layouts, tick rollover, interface reset / attachment, route messages with short address records, timestamp windows, unavailable samples, bounded history, pause gaps, JSON round trips, and history controls.
 - A controlled `yes` subprocess verified CPU utilization near one core; the test terminates and reaps its own child.
 - Live probes verified 18 CPU cores, Super IDs 12–17, Performance IDs 0–11, a 32-core GPU, GPU engine activity, notebook battery metrics, kernel pressure, storage, network, and accessible process readings.
-- All nine panels are rendered from real samples for visual inspection. The process screenshot shows the first 14 rows; the live list remains complete and scrollable.
+- All nine panels were rendered from real samples for visual inspection. Eight panel screenshots are published; process-list captures are excluded from published documentation. The live process list remains complete and scrollable.
 
 ## Deliberate boundaries
 
